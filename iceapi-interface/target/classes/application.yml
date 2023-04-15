@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: iceapi-interface
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+

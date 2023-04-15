@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://1.12.246.5:3306/iceapi?serverTimezone=UTC&useSSL=false
+    username: root
+    password: a5611001
